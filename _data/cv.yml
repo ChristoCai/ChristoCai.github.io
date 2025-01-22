@@ -6,14 +6,14 @@
     - name: Date of Birth
       value: 2025
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: East China Jiaotong University, 江西, 南昌
-      year: 1905
+      year: 2025
       description:
         - Description 1.
         - Description 2.
