@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -27,7 +27,7 @@ profile:
 
 湖北工程学院   学士  2013-2017
 
-**科研经历：**
+**已发表论文及专利：**
 
 - Dimension reduction of multimodal data by auto-weighted local discriminant analysis
 - 一种监控视频流中移动物体的识别方法及系统
@@ -39,11 +39,11 @@ profile:
 - 无损缺陷电池检测系统
 - 低速自动泊车系统
 - CT智能识别系统
-- Nike鞋子智能识别系统
+- Nike鞋通用智能识别系统
 
-  **其他：**
-  - TNNLS, TKDE 审稿人
-  - CSDN 博客专家、人工智能领域新星创作者 
+**其他：**
+- TNNLS, TKDE 审稿人
+- CSDN 博客专家、人工智能领域新星创作者 
 
 
 
