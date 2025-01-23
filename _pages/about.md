@@ -12,8 +12,8 @@ profile:
     <p>双港街</p>
     <p>江西 南昌</p>
 
->news: true # includes a list of news items
->selected_papers: true # includes a list of papers marked as "selected={true}"
->social: true # includes social icons at the bottom of the page
+# news: true # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+# social: true # includes social icons at the bottom of the page
 ---
 
