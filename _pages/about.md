@@ -27,5 +27,14 @@ profile:
 
 湖北工程学院 学士  2013-2017
 
+**科研经历：**
+
+- Dimension reduction of multimodal data by auto-weighted local discriminant analysis
+- 一种监控视频流中移动物体的识别方法及系统
+- 基于 DR 图像与投影图融合的目标检测识别方法及系统
+- 一种图像处理及分类方法和系统
+
 **项目经历：**
+
+
 
