@@ -15,6 +15,8 @@ profile:
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
+<strong>如果可以，跟代码打一辈子交道也是幸福的。</strong>
+
 欢迎来到我的主页！
 
 我的主页将会展现我目前的一些工作和动态。
